@@ -1,0 +1,20 @@
+c:\users\student.lab2209\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.exe.config
+c:\users\student.lab2209\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.exe
+c:\users\student.lab2209\documents\visual studio 2015\Projects\lab3\lab3\bin\Debug\lab3.pdb
+c:\users\student.lab2209\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+c:\users\student.lab2209\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.exe
+c:\users\student.lab2209\documents\visual studio 2015\Projects\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Oleksandr\Desktop\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Oleksandr\Desktop\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Oleksandr\Desktop\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Oleksandr\Desktop\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\Desktop\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Oleksandr\Desktop\lab3\lab3\obj\Debug\lab3.pdb
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab3\lab3\bin\Debug\lab3.exe.config
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab3\lab3\bin\Debug\lab3.exe
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab3\lab3\bin\Debug\lab3.pdb
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab3\lab3\obj\Debug\lab3.exe
+D:\Temporary\Навчання 2021\Лабораторні з О-ОП\C#\lab3\lab3\obj\Debug\lab3.pdb
